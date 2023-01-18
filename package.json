@@ -1,0 +1,26 @@
+{
+  "name": "gands-mini-projects-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "postinstall": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.1",
+    "firebase-auth": "^0.1.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "16"
+  }
+}

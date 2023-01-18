@@ -1,0 +1,6 @@
+server/rough.js
+server/config.js
+server/gands-project.json
+
+client/node_modules
+client/build
