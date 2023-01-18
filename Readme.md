@@ -1,7 +1,7 @@
 
 # GandS - Email Builder and Penetration Tool
 
-    Email Builder and Penetration Tool, Where Unlayer email builder used for email builder,  Sendgrid used for sending emails and Mail Genius used for spam checking.
+Email Builder and Penetration Tool, Where Unlayer email builder used for email builder,  Sendgrid used for sending emails and Mail Genius used for spam checking.
 
 ## Get Started
 
