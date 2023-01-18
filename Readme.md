@@ -50,11 +50,11 @@ Deployment
 
 ## Screenshots
 
-<img src="/screenshots/SignUp.png" width=40% height=50%>
-<img src="/screenshots/Login.png" width=40% height=50%>
-<img src="/screenshots/ResetPassword.png" width=40% height=50%>
-<img src="/screenshots/Home.png" width=40% height=50%>
-<img src="/screenshots/Save.png" width=40% height=50%>
-<img src="/screenshots/CheckSpam.png" width=40% height=50%>
-<img src="/screenshots/SendMail.png" width=40% height=50%>
-<img src="/screenshots/Score.png" width=40% height=50%>
+<img src="/screenshots/SignUp.png" width=70% height=70%>
+<img src="/screenshots/Login.png" width=70% height=70%>
+<img src="/screenshots/ResetPassword.png" width=70% height=70%>
+<img src="/screenshots/Home.png" width=70% height=70%>
+<img src="/screenshots/Save.png" width=70% height=70%>
+<img src="/screenshots/CheckSpam.png" width=70% height=70%>
+<img src="/screenshots/SendMail.png" width=70% height=70%>
+<img src="/screenshots/Score.png" width=70% height=70%>
